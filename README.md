@@ -1,0 +1,2 @@
+I programmed an automated chemical treatment system in Arduino IDE. In this system, when the start button pressed, Tank 2 start filling (pump 2 on). When tank 2 is full, the heater run. After heating, tank 1 fill again (pump 2 on). Whem tank 1 is full pump 2 off.
+Chemical filling process - Whem a cup is detected at the sensor, the conveyor start. When the cup reached the sesnsor 2, the conveyor stop and mini pump run. When the cup reaches sensor 3 the conveyor stop. During the process green light remain on. If not red light turn on.
